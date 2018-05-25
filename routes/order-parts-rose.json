@@ -1,0 +1,411 @@
+{
+    "'": [
+        "\""
+    ],
+    "\"": [
+        "\""
+    ],
+    "yes": [
+        "AFFIRMATIVE_RESPONSE"
+    ],
+    "no": [
+        "NEGATIVE_RESPONSE",
+        "MODIFY_ITEM_REMOVE",
+        "REMOVE_FROM_COMBO",
+        "REMOVE_FROM_ORDER"
+    ],
+    "cancel": [
+        "REMOVE_FROM_ORDER",
+        "NEGATIVE_RESPONSE"
+    ],
+    "yup": [
+        "AFFIRMATIVE_RESPONSE"
+    ],
+    "nope": [
+        "NEGATIVE_RESPONSE"
+    ],
+    "affirmative": [
+        "AFFIRMATIVE_RESPONSE"
+    ],
+    "negative": [
+        "NEGATIVE_RESPONSE"
+    ],
+    "correct": [
+        "AFFIRMATIVE_RESPONSE"
+    ],
+    "incorrect": [
+        "NEGATIVE_RESPONSE"
+    ],
+    "a": [
+        "QTY",
+        "ADD_TO_ORDER"
+    ],
+    "an": [
+        "QTY",
+        "ADD_TO_ORDER"
+    ],
+    "one": [
+        "QTY"
+    ],
+    "two": [
+        "QTY"
+    ],
+    "three": [
+        "QTY"
+    ],
+    "four": [
+        "QTY"
+    ],
+    "five": [
+        "QTY"
+    ],
+    "six": [
+        "QTY"
+    ],
+    "seven": [
+        "QTY"
+    ],
+    "eight": [
+        "QTY"
+    ],
+    "nine": [
+        "QTY"
+    ],
+    "ten": [
+        "QTY"
+    ],
+    "eleven": [
+        "QTY"
+    ],
+    "twelve": [
+        "QTY"
+    ],
+    "dozen": [
+        "QTY"
+    ],
+    "hamburger": [
+        "FOOD_ITEM"
+    ],
+    "hamburgers": [
+        "FOOD_ITEM"
+    ],
+    "cheeseburger": [
+        "FOOD_ITEM"
+    ],
+    "cheeseburgers": [
+        "FOOD_ITEM"
+    ],
+    "fry": [
+        "FOOD_ITEM"
+    ],
+    "fries": [
+        "FOOD_ITEM"
+    ],
+    "french-fries": [
+        "FOOD_ITEM"
+    ],
+    "french-fry": [
+        "FOOD_ITEM"
+    ],
+    "cookie": [
+        "FOOD_ITEM"
+    ],
+    "curly-fries": [
+        "FOOD_ITEM"
+    ],
+    "onion-rings": [
+        "FOOD_ITEM"
+    ],
+    "breakfast-potatoes": [
+        "FOOD_ITEM"
+    ],
+    "potatoes": [
+        "FOOD_ITEM"
+    ],
+    "hash-browns": [
+        "FOOD_ITEM"
+    ],
+    "nuggets": [
+        "FOOD_ITEM"
+    ],
+    "chicken-nuggets": [
+        "FOOD_ITEM"
+    ],
+    "chicken-sandwich": [
+        "FOOD_ITEM"
+    ],
+    "fried-chicken": [
+        "FOOD_ITEM"
+    ],
+    "grilled-chicken": [
+        "FOOD_ITEM"
+    ],
+    "chicken": [
+        "FOOD_ITEM"
+    ],
+    "salt": [
+        "CONDIMENT"
+    ],
+    "on-the-side": [
+        "INCLUDE_AS_SIDE"
+    ],
+    "side-of": [
+        "INCLUDE_AS_SIDE"
+    ],
+    "pepper": [
+        "CONDIMENT"
+    ],
+    "ketchup": [
+        "CONDIMENT"
+    ],
+    "mayo": [
+        "CONDIMENT"
+    ],
+    "mustard": [
+        "CONDIMENT"
+    ],
+    "barbeque-sauce": [
+        "CONDIMENT"
+    ],
+    "lettuce": [
+        "CONDIMENT"
+    ],
+    "bun": [
+        "TOPPING"
+    ],
+    "bread": [
+        "TOPPING"
+    ],
+    "cheese": [
+        "TOPPING"
+    ],
+    "tomato": [
+        "TOPPING"
+    ],
+    "tomatoes": [
+        "TOPPING"
+    ],
+    "pickle": [
+        "TOPPING"
+    ],
+    "pickles": [
+        "TOPPING"
+    ],
+    "onion": [
+        "TOPPING"
+    ],
+    "onions": [
+        "TOPPING"
+    ],
+    "egg": [
+        "TOPPING"
+    ],
+    "sauce": [
+        "CONDIMENT"
+    ],
+    "mayonaise": [
+        "CONDIMENT"
+    ],
+    "salad-cream": [
+        "COMDIMENT"
+    ],
+    "barbeque": [
+        "COMDIMENT"
+    ],
+    "grilled-onions": [
+        "ADD_ON"
+    ],
+    "pickled-peppers": [
+        "ADD_ON"
+    ],
+    "jalepenos": [
+        "ADD_ON"
+    ],
+    "japs": [
+        "ADD_ON"
+    ],
+    "plain": [
+        "MODIFY_ITEM_PLAIN"
+    ],
+    "dry": [
+        "MODIFY_ITEM_PLAIN"
+    ],
+    "as-is": [
+        "MODIFY_ITEM_AS_WRITTEN"
+    ],
+    "how-it-comes": [
+        "MODIFY_ITEM_AS_WRITTEN"
+    ],
+    "regular": [
+        "SIZE",
+        "MODIFY_ITEM_AS_WRITTEN"
+    ],
+    "large": [
+        "SIZE"
+    ],
+    "small": [
+        "SIZE"
+    ],
+    "medium": [
+        "SIZE"
+    ],
+    "extra-large": [
+        "SIZE"
+    ],
+    "extra-small": [
+        "SIZE"
+    ],
+    "smallest": [
+        "SIZE"
+    ],
+    "largest": [
+        "SIZE"
+    ],
+    "big": [
+        "SIZE"
+    ],
+    "sugar": [
+        "DRINK_COMPONENT"
+    ],
+    "cream": [
+        "DRINK_COMPONENT"
+    ],
+    "lemon": [
+        "DRINK_COMPONENT"
+    ],
+    "chocolate-syrup": [
+        "DRINK_COMPONENT"
+    ],
+    "caramel-syrup": [
+        "DRINK_COMPONENT"
+    ],
+    "caramel_sauce": [
+        "DRINK_COMPONENT"
+    ],
+    "chocolate": [
+        "FLAVOR"
+    ],
+    "vanilla": [
+        "FLAVOR"
+    ],
+    "caramel": [
+        "FLAVOR",
+        "DRINK_COMPONENT"
+    ],
+    "strawberry": [
+        "FLAVOR"
+    ],
+    "sprite": [
+        "DRINK"
+    ],
+    "shake": [
+        "DRINK"
+    ],
+    "milkshake": [
+        "DRINK"
+    ],
+    "pepsi": [
+        "DRINK"
+    ],
+    "coke": [
+        "DRINK"
+    ],
+    "diet-coke": [
+        "DRINK"
+    ],
+    "diet-pepsi": [
+        "DRINK"
+    ],
+    "doctor-pepper": [
+        "DRINK"
+    ],
+    "diet-doctor-pepper": [
+        "DRINK"
+    ],
+    "lemonade": [
+        "DRINK"
+    ],
+    "tea": [
+        "DRINK"
+    ],
+    "coffee": [
+        "DRINK"
+    ],
+    "iced-coffee": [
+        "DRINK"
+    ],
+    "sweet-tea": [
+        "DRINK"
+    ],
+    "iced-tea": [
+        "DRINK"
+    ],
+    "black-tea": [
+        "DRINK"
+    ],
+    "coca-cola": [
+        "DRINK"
+    ],
+    "water": [
+        "DRINK"
+    ],
+    "pop": [
+        "DRINK"
+    ],
+    "with": [
+        "MODIFY_ITEM_ADD",
+        "ADD_TO_ORDER"
+    ],
+    "add": [
+        "MODIFY_ITEM_ADD",
+        "ADD_TO_ORDER"
+    ],
+    "and": [
+        "MODIFY_ITEM_ADD",
+        "ADD_TO_ORDER",
+        "X"
+    ],
+    "extra": [
+        "MODIFY_ITEM_EXTRA"
+    ],
+    "a lot of": [
+        "MODIFY_ITEM_EXTRA"
+    ],
+    "lots-of": [
+        "MODIFY_ITEM_EXTRA"
+    ],
+    "double": [
+        "MODIFY_ITEM_EXTRA",
+        "DOUBLE"
+    ],
+    "twice": [
+        "MODIFY_ITEM_EXTRA",
+        "DOUBLE"
+    ],
+    "two-times": [
+        "MODIFY_ITEM_EXTRA",
+        "DOUBLE"
+    ],
+    "triple": [
+        "MODIFY_ITEM_EXTRA",
+        "TRIPLE"
+    ],
+    "three-times": [
+        "MODIFY_ITEM_EXTRA",
+        "TRIPLE"
+    ],
+    "hold": [
+        "MODIFY_ITEM_REMOVE",
+        "REMOVE_FROM_ORDER"
+    ],
+    "hold-the": [
+        "MODIFY_ITEM_REMOVE",
+        "REMOVE_FROM_ORDER"
+    ],
+    "light": [
+        "MODIFY_ITEM_SPECIAL"
+    ],
+    "easy": [
+        "MODIFY_ITEM_SPECIAL"
+    ]
+}
