@@ -7,10 +7,10 @@ module.exports = {
 var mySql = require('mysql');
 var pool = mySql.createPool({
   connectionLimit : 50,
-  host: 'valyant-gatekeeper.cwvc8q675znh.us-west-2.rds.amazonaws.com',
-  user: 'gatekeeper',
-  password: 'gat3k33p3r',
-  database: 'gatekeeper'
+  host: 'MYSQL_HOST',
+  user: 'MYSQL-USERNAME',
+  password: 'MYSQL-PASSWORD',
+  database: 'MYSQL-DBNAME'
 })
 
 //object which holds the connection to the db
